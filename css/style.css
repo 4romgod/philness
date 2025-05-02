@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #450404;
+    --primary: #365679;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
-    --dark: #260101;
+    --dark: #112439;
 }
 
 .back-to-top {
@@ -238,7 +238,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(#260101, #450404), url(../img/bg.png);
+    background: linear-gradient(#112439, #365679), url(../img/bg.png);
     z-index: -1;
 }
 
